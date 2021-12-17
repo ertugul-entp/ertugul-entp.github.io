@@ -22,8 +22,8 @@ let teamData = [
 
     {
         "tName": "Divyanshu Shekhar",
-        "tRank": "IT Systems Admin",
-        "tBrief": "4-year expertise in computer programming and system administration.",
+        "tRank": "Programmer",
+        "tBrief": "4-year expertise in computer programming.",
         "tPicture": "images/team/team4.jpg"
     }
 ]
