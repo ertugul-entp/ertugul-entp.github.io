@@ -18,12 +18,5 @@ let teamData = [
         "tRank": "Chief Consultant",
         "tBrief": "15-year expertise of consultancy in construction industry.",
         "tPicture": "images/team/team2.jpeg"
-    },
-
-    {
-        "tName": "Divyanshu Shekhar",
-        "tRank": "Programmer",
-        "tBrief": "4-year expertise in computer programming.",
-        "tPicture": "images/team/team4.jpg"
     }
 ]
